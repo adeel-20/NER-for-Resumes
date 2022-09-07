@@ -1,2 +1,6 @@
 # NER-for-Resumes
 NER recognition for resumes/CVs with Spacy3 + Job Matching using Cosine Similarity
+ 
+## Intro
+This paper intends to automate the hiring process by filtering out necessary information from CVs and by giving similarity index between job description and CV. We intend to solve this problem using Natural Language Processing and Deep Learning techniques.
+We have used NER(Named Entity Recognition) for extracting required information(Skills, Institute, Experience, Contact info, Email address, Location) and Cosine Similarity to find relevance between Job description and Resumes.
